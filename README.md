@@ -5,10 +5,10 @@ Pared-down project template for reproducible Machine Learning. Adopted from [Coo
 
 How to Use
 -----
-First install cookiecutter:
+1. First install cookiecutter:
 `pip install cookiecutter`
 
-Then initialise a template:
+2. Then initialise a template:
 
 `cookiecutter gh:jeannefukumaru/cookiecutter-ml`
 
