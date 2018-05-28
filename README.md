@@ -37,11 +37,6 @@ Project Structure
     ├── external       <- Any external source code, e.g., pull other git projects, or external libraries
     ├── models         <- Source code for your own model
     ├── tools          <- Any helper scripts go here
-    └── visualization  <- Scripts for visualisation of your results, e.g., matplotlib, ggplot2 related.
+    └── visualization  <- scripts for visualisation during EDA, modelling, error analysis etc.
 ```
 
-Check out my latest research project, which successfully applied the `cookiecutter` philosophy: [SEMIC: an efficient surface energy and mass balance model applied to the Greenland ice sheet](https://gitlab.pik-potsdam.de/krapp/semic-project).
-
-License
--------
-This project is licensed under the terms of the [BSD License](/LICENSE)
