@@ -1,10 +1,10 @@
 {
-    "full_name": "Mario Krapp",
-    "email": "mariokrapp@gmail.com",
-    "github_username": "mkrapp",
-    "project_name": "Name of your science project",
+    "full_name": "Jeanne Choo",
+    "email": "jchoo@aisingapore.org",
+    "github_username": "jeannefukumaru",
+    "project_name": "cookiecutter-ml",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-    "project_short_description": "A short description of your project",
+    "project_short_description": "project template for reproducible ml",
     "release_date": "{% now 'local' %}",
     "version": "0.1.0",
     "_extensions": ["jinja2_time.TimeExtension"]
