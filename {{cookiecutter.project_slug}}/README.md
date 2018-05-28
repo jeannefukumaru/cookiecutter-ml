@@ -1,19 +1,13 @@
-{{cookiecutter.project_slug}}
-==============================
-
-{{cookiecutter.project_short_description}}
-
-Project Organization
+Directory Structure
 --------------------
 
     .
     ├── AUTHORS.md
     ├── LICENSE
     ├── README.md
-    ├── bin
+    ├── models
     ├── config
     ├── data
-    │   ├── external
     │   ├── interim
     │   ├── processed
     │   └── raw
@@ -22,8 +16,7 @@ Project Organization
     ├── reports
     │   └── figures
     └── src
-        ├── data
-        ├── external
-        ├── models
-        ├── tools
-        └── visualization
+        ├── data-proc
+        ├── viz
+        ├── modeling
+   
