@@ -37,5 +37,6 @@ Template Structure
         ├── data-proc <- scripts for processing data eg. transformations, dataset merges etc. 
         ├── viz  <- scripts for visualisation during EDA, modelling, error analysis etc. 
         ├── modeling    <- scripts for generating models
+    |-- environment.yml . <- YAML file with libraries and library versions for recreating an environment
 ```
 
