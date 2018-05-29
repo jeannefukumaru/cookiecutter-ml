@@ -19,4 +19,5 @@ Directory Structure
         ├── data-proc <- scripts for processing data eg. transformations, dataset merges etc. 
         ├── viz  <- scripts for visualisation during EDA, modelling, error analysis etc. 
         ├── modeling    <- scripts for generating models
+    |--- environment.yml <- file with libraries and their versions for recreating the analysis environment
    
